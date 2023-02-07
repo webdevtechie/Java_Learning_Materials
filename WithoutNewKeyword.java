@@ -1,5 +1,5 @@
 public class WithoutNewKeyword{
-
+// learn why new keyword is preferred over these methods
     public static void main(String args[]) throws ClassNotFoundException, InstantiationException,IllegalAccessException,CloneNotSupportedException
     {
         // Using newInstance Method present in Class.java
